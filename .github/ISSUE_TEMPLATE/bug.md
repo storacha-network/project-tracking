@@ -1,6 +1,6 @@
 ---
 name: Bug
-about: File a bug for Saturn
+about: File a bug for Storacha
 title: ''
 labels: bug
 assignees: ''
